@@ -1,8 +1,8 @@
 # Importing classes
 from turtle import Screen
-from Paddle import Paddle
-from ball import Ball
-from Scoreboard import Scoreboard
+from paddle import Paddle
+from Ball import Ball
+from scoreboard import Scoreboard
 import time
 
 # Screen Configuration:
