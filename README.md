@@ -33,7 +33,7 @@ Move Down: L
 - If the ball passes a paddle and hits the edge of the screen, the opposing player scores a point.
 - The game continues indefinitely, allowing players to play until they decide to stop.
   
-[Preview]()
+[Preview](https://github.com/DikheetaNath/Pong-game/blob/master/Screenshot%202024-07-03%20233628.png)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
