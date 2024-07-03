@@ -39,5 +39,5 @@ Move Down: L
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Acknowledgments
-The classic Pong game, originally created by Atari.
-The Python community for providing resources and libraries.
+- The classic Pong game, originally created by Atari.
+- The Python community for providing resources and libraries.
